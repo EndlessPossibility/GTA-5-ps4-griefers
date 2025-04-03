@@ -52,4 +52,4 @@ hnordheim ip: (84.52.235.166), isp: NTE Bredband, postal code: 7736 country: Nor
 ip:46.52.52.246:47141, geo localisation:Medina, Medina Region, Saudi Arabia, isp: Etihad Etisalat
 ip:5.41.7.43:5459 Jeddah, Mecca Region, Saudi Arabia isp: Saudi Telecom Company JSC
 crispy-cursive3
-unlikely_wizard3 ip: 97.7.111.197 isp: sky uk limited
+unlikely_wizard3 ip: 97.7.111.197 port: 6672 isp: sky uk limited
